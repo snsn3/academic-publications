@@ -1,6 +1,6 @@
 # Publications
 
-A human-readable catalog of publications by **Stany Nzobonimpa** and collaborators.
+A human-readable catalog of publications my (**Stany Nzobonimpa** & collaborators') publications. List is by year of publication.
 
 > The original EndNote export is available in [`citations.enw`](citations.enw). This page is organized by year for easier reading.
 
