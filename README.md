@@ -7,7 +7,7 @@ A curated, machine-readable list of academic publications by **Stany Nzobonimpa*
 - [Human-readable publication list](publications.md)
 - [EndNote export](citations.enw)
 
-## At a glance
+## At a glance (as of 2026-10-21)
 
 - **16** publications and scholarly contributions
 - **2020–2026** publication years
