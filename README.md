@@ -12,3 +12,6 @@ A curated, machine-readable list of academic publications by **Stany Nzobonimpa*
 - **16** publications and scholarly contributions
 - **2020–2026** publication years
 - Research spanning artificial intelligence, public administration, machine learning, policing, inclusion, and public policy
+
+## Next up: Thèse!!
+My doctoral thesis is in the final stages and should be next on this list (as of: 2026-10-21). À suivre
